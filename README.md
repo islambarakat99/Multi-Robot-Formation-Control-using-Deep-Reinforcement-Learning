@@ -1,7 +1,7 @@
 # Multi-Robot-Formation-Control-using-Deep-Reinforcement-Learning
 
 
-In this project deep reinforcement learning is used to train multi-agent robotic systems to perfrom leader-follower formation control . The OpenAI's MADDPG project is used after modification to train the agents.
+In this project deep reinforcement learning is used to train multi-agent robotic systems to perfrom leader-follower formation control . The OpenAI's MADDPG project is used after  being modified for agents training.
 
 ## Framework
 
