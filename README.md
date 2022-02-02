@@ -5,7 +5,7 @@ In this project deep reinforcement learning is used to train multi-agent robotic
 
 ## Framework
 
-The Framework used in this project is Python 3.6.9 installed on Ubuntu 18.04 LTS. Alongside with Numpy which is a python library that provides dozens of methods to manipulatethe multi-dimensional arrays and matrices that could be helpful in Mathematical calcu-lations, more about the library can be found at NumPy Website.  Tensorflow library is also used, which is a free open-source library for Machine Learning developed by Google that facilitates the training of the deep neural networks.
+The Framework used in this project is Python 3.6.9 installed on Ubuntu 18.04 LTS. Alongside with Numpy, Tensorflow.
 
 <p align="center">
   <img  src="https://user-images.githubusercontent.com/42684592/123695973-82063300-d85b-11eb-8349-84dadbda6b69.png">
